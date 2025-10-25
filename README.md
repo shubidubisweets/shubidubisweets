@@ -1,5 +1,9 @@
 <p align="center">
-i love yaoi & dead dove | sign my thingsss im super nice | safe server dweller
+    <img width="140" src="https://64.media.tumblr.com/5ed27114b226b023a28c7013aca1eb46/94453fa9726fddfb-bb/s75x75_c1/3567b7833b73358bd75a5ab7af80ee4d63c7381e.gifv">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j365k0m5ruyju1v4me9pt8zel&cover_image=true&theme=novatorem&show_offline=false&background_color=1d1c1b&interchange=false&profanity=false&bar_color=93c383&bar_color_cover=false">
+      <img width="140" src="https://64.media.tumblr.com/8b540ea4822b8be348f94cf2a0acfde6/e41345b50691e398-9c/s75x75_c1/5d202781295535b19a4add826a604d23e6766498.gifv">
+  </a>
 </p>
 
 <p align="center">
