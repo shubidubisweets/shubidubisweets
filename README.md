@@ -1,4 +1,8 @@
 <p align="center">
+i love yaoi & dead dove | sign my thingsss im super nice | safe server dweller
+</p>
+
+<p align="center">
 <img width="200" src="https://64.media.tumblr.com/23e9620cf36132647ef8174dab34a16a/f8286dc84aff3c0a-52/s250x400/31da7a480dbe50b32581e13d07e6c38d62a49e56.gifv"> <img width="200" src="https://64.media.tumblr.com/56c1e63c23bb2c82e9c7c8560d6b3812/2b50de83d2b3bb21-b3/s100x200/10668a2b920e3d94246d8057bc93a39dcbd61d98.pnj"> <img width="200" src="https://64.media.tumblr.com/9e193ebd3c2a15712df03a1ee130ff35/74876e504c5c7cde-81/s100x200/5476eeefdab098b83dce89dfd0a783399f57f06e.pnj">
 </p>
 
