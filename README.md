@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-<img width="160" src="https://64.media.tumblr.com/5a2fba3e9393c83f8aa3085bb0c1ab8c/5fe6f8af254d012b-f3/s100x200/ca43e4c8d2e5f8bc4e1976a2b5932316f9059ed3.pnj"> <img width="160" src="https://64.media.tumblr.com/b3008f74fe3930b77b6022227377663e/986927fc5670cd77-19/s100x200/b93baec7de4553010e6a671413855cbff3b37b8f.pnj"> <img width="160" src="https://64.media.tumblr.com/4756fdce4a72fc4e831c4583276d9f8a/6db97c9f928831ee-b1/s100x200/b06a9e1999cfff9dc679fcd82167bd2753ef4dac.pnj">
-</p>
-
-<p align="center">
 <img width="160" src="https://64.media.tumblr.com/5034802d435ea12de9f53a3070e1daac/cba5db1a07c10cb9-77/s100x200/28868d664015f8e79ba7c5149a6cca54985378cb.pnj"> <img width="160" src="https://64.media.tumblr.com/e8da19bb7f51a890f209dfc667819242/0dcd02567f0c6d32-d6/s250x400/cd61df2a3b86e7af507d9fcef65a8cd65a35bf3e.pnj"> <img width="160" src="https://64.media.tumblr.com/028cbf3fdf98e73451ddb6cef05e29bb/eed262c3dd030bba-ed/s100x200/2af4cfe51cf620cc2a13973c635245cbe6177bff.pnj">
 </p>
 
@@ -69,8 +65,4 @@
 
 <p align="center">
 <img width="160" src="https://64.media.tumblr.com/3fb8a5e5fc9ada6e6ce1e4b609385b0a/bddbc11f7806ad63-d7/s100x200/4eddaac606d6875bc3d27b257d5592a84154f3be.gifv"> <img width="160" src="https://64.media.tumblr.com/839f6cd13168341e62e9beaf45782e4a/7e100f44603c3879-87/s100x200/2f529229e7976fc08064a93625eff9b892839eaa.pnj"> <img width="160" src="https://64.media.tumblr.com/97b498e49476871d3ee5b2799e5d960d/be4d005d6941e7bd-1c/s100x200/bed76af074a6b13eed1c2b8370fe05a6d3790f96.pnj"> 
-</p>
-
-<p align="center">
-<img width="160" src="https://64.media.tumblr.com/f798aa785117cbf506b30bcc0d9e511a/dc58443c5c57c50a-8c/s100x200/8e9f50747a0f8ae3f2dc2f9dc617eafb742193c3.gifv"> <img width="160" src="https://64.media.tumblr.com/7346a9d91641459cf5ea126ce9c4a69e/04a7e42eb685e794-e4/s100x200/360906f4b6a26649b56d41c07d1725886328deb0.pnj"> <img width="160" src="https://64.media.tumblr.com/059c437ae2fbd6fe4dafa6d634024629/3605422538567f48-94/s100x200/c892dc7f7d98c2dfeab58a51a73a48d7c6286972.pnj">
 </p>
