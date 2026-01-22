@@ -4,4 +4,14 @@
   </a>
 </p>
 
-i gotta redo this bare w me
+<p align="center"
+
+  i gotta redo this repository bare w me
+  </a>
+</p>
+
+<p align="center"
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://media1.tenor.com/m/u6gmNC6-UsYAAAAC/yuji-stare-yuji-itadori.gif">
+  </a>
+</p>
